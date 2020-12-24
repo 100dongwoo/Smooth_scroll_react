@@ -10,3 +10,4 @@
 - justify-self
 - grid-template-areas
 - grid-auto-columns: minmax(auto, 1fr); (minmax)
+- justify-self: start;
